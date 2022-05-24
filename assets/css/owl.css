@@ -1,0 +1,13 @@
+.font_1{
+  font-family: 'Odibee Sans', cursive;
+  font-size: 70px;
+  font-weight: bold;
+}
+.footer-logo{
+  height: 300px;
+  width: 300px;
+}
+
+.footer-widget{
+  padding-right: 100px;
+}
